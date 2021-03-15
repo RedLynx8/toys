@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "toys-crossing"
+    "default": "toys-crossing",
+    "toys": "toys-crossing"
   }
 }
